@@ -14,7 +14,6 @@ body {
 }
 
 .title {
-  /* text-align: center; */
   color: #333;
 }
 
@@ -28,8 +27,6 @@ body {
   color: #333;
   border: 1px solid #ccc;
   border-radius: 4px;
-  /* background-color: gray; */
-  /* text-color: green; */
 }
 
 .loader_style {
@@ -113,10 +110,8 @@ body {
 }
 
 .cat-info {
-  /* width: 800px; */
   margin: 0 auto;
   margin-top: 10px;
-  /* text-align: center; */
   gap: 20px;
 }
 
